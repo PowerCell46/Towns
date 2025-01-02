@@ -8,3 +8,5 @@ PowerCell46 takes the role "Team Leader"
 PeterGerdzhikov takes the role "Editor"
 
 PowerCell46 takes the role "Shuffler"
+
+PeterGerdzhikov takes the role "Styler"
